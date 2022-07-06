@@ -20,7 +20,6 @@ or
 ./bin/students
 ```
 
-...
 
 ## Also
 ...
